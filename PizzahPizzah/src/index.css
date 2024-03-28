@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(121, 43, 14);
+}
+
+h1 {
+  font-size: 100px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.button5 {
+  border-radius: 50%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+label {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+}
