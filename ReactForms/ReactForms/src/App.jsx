@@ -1,13 +1,12 @@
-import { useState } from 'react'
-import './App.css'
+import React from 'react';
+import Authenticate from './Authenticate';
+import SignUpForm from './SignUpForm';
 
-function App() {
-  const [] = useState(0)
-
+export default function App() {
   return (
     <>
+      <Authenticate />
+      <SignUpForm />
     </>
-  )
+  );
 }
-
-export default App
